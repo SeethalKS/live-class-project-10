@@ -192,6 +192,7 @@ border-radius: 2.9rem;
     .poster{
          margin-top: 30px;
          margin-left: 20px;
+         width:250px;
     }
     .line{
     left: 125px;
