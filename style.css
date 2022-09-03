@@ -157,15 +157,6 @@ border-radius: 2.9rem;
 }
 @media (max-width: 720px){
     body{
-        /* position: relative; 
-        height: auto;
-  width: 100%;
-        background-position:center;
-        background-repeat:repeat;
-        background-size:contain;
-        color: #fff;
-        
-        z-index: -1;     */
         height: 200%;
     }
     .navbar-container{ 
@@ -236,4 +227,9 @@ border-radius: 2.9rem;
    .btn{
     margin-top: 20px;
    }
+}
+@media(max-height:1250px){
+    body{
+        width:100vw;
+    }
 }
