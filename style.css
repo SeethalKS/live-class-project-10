@@ -230,8 +230,5 @@ border-radius: 2.9rem;
     margin-top: 20px;
    }
 }
-@media(max-height:1250px){
-    body{
-        width:100vw;
-    }
-}
+
+
